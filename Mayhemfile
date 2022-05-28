@@ -1,0 +1,5 @@
+project: rnshah9/nanodump
+target: bin2c
+
+cmds:
+  - cmd: /repo/source/bin2c @@ a

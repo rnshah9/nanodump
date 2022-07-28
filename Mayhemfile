@@ -2,4 +2,4 @@ project: nanodump
 target: bin2c
 
 cmds:
-  - cmd: /repo/source/bin2c @@ a
+  - cmd: /bin2c @@ a
